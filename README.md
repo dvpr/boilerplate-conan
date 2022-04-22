@@ -2,7 +2,7 @@
 
 First, install conan and cmake
 
-And then
+And then move to your project root path
 
 ```
 mkdir build && cd build
